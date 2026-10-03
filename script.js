@@ -6,7 +6,7 @@
    (see apps-script.gs + README.md). Leave blank to fall back to a
    mailto link so the form still works before the script is deployed.
 --------------------------------------------------------------------- */
-const LEAD_ENDPOINT_URL = "";
+const LEAD_ENDPOINT_URL = "https://script.google.com/macros/s/AKfycbxEvlf2_ZWCkn34DyHxu1ZQcdPlcTIhCu70SW4MketLvFkmJwghGHduhSAcYSlEmLWawA/exec";
 const NOTIFY_EMAIL = "hello@leadscogen.in"; // update to your real inbox
 
 const NAV_LINKS = [
